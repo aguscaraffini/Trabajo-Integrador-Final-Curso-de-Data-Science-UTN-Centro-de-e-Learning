@@ -37,10 +37,10 @@ Inferir y predecir sobre los atributos que más influyen en la victoria de los e
 ---
 
 ## 🧰 Librerías utilizadas
-python
-pandas
-plotly.express
-seaborn
-matplotlib.pyplot
-numpy
-sklearn (VarianceThreshold, LabelEncoder, mutual_info_regression, train_test_split, LogisticRegression, accuracy_score)
+- python
+- pandas
+- plotly.express
+- seaborn
+- matplotlib.pyplot
+- numpy
+- sklearn (VarianceThreshold, LabelEncoder, mutual_info_regression, train_test_split, LogisticRegression, accuracy_score)
